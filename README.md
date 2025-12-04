@@ -1,7 +1,5 @@
 # Kruba-Chat
 
-## 🤖 KrubaChat
-
 A modern Flutter-based AI chat application with conversation history, customizable settings, and a clean chat UI.
 Built with Dart + Flutter and integrates with ChatGPT-style AI APIs.
 
